@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Roy Shadmon, PhD Student at UC Santa Cruz"
+title                    : "Roy Shadmon"
 title_separator          : "-"
 name                     : &name "Roy Shadmon"
 description              : &description "Roy's Personal Website"
