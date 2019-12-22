@@ -1,6 +1,6 @@
 ---
 title: "Master's Project--21 a dApp State Channel Game"
-excerpt: "A game that leverages the Ethereum blockchain and state channels that allows for untrusting players to verifiable gamble off-chain. <br/><img src='/images/crypto.jpg'>"
+excerpt: "A game that leverages the Ethereum blockchain and state channels that allows for untrusting players to verifiable gamble off-chain. <br/><img src='/images/crypto.png'>"
 collection: portfolio
 ---
 
