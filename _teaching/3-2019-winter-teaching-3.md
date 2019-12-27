@@ -4,7 +4,7 @@ collection: teaching
 type: "Software Design Project"
 permalink: /teaching/3-2019-winter-teaching-3
 venue: "University of California, Santa Cruz - Jack Baskin School of Engineering"
-date: 2019
+date: 2019-1-15
 location: "Santa Cruz, California"
 ---
 

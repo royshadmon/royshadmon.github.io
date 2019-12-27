@@ -4,7 +4,7 @@ collection: teaching
 type: "Introduction to Software Engineering"
 permalink: /teaching/2-2018-fall-teaching-2
 venue: "University of California, Santa Cruz - Jack Baskin School of Engineering"
-date: 2018
+date: 2018-09-15
 location: "Santa Cruz, California"
 ---
 
