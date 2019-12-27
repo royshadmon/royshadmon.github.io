@@ -17,22 +17,23 @@ Education
 
 Work experience
 ======
-* December 2019 - Present: Security Engineer
-* September 2019 - December 2019: Security Analyst
-* June 2019 - August 2019: Security Analyst Intern
-  * <a href="looker.com">Looker Data Sciences</a>  
+* <a href="looker.com">Looker Data Sciences</a>
+  * December 2019 - Present: Security Engineer
+  * September 2019 - December 2019: Security Analyst
+  * June 2019 - August 2019: Security Analyst Intern
+    
+* University of California, Santa Cruz - Jack Baskin School of Engineering     
+  * January 2018 - June 2019: Graduate Teaching Assistant 
+  
+* <a href="juniper.net">Juniper Networks</a>
+  * June 2018 - September 2018: Software Engineering Intern 
+  
+* <a href="lendstreet.com">Lend Street Financial</a>
+  * June 2017 - March 2018: Full Stack Software Engineering Intern
 
-* January 2018 - June 2019: Graduate Teaching Assistant 
-  * University of California, Santa Cruz - Jack Baskin School of Engineering 
-
-* June 2018 - September 2018: Software Engineering Intern 
-  * <a href="juniper.net">Juniper Networks</a>
-
-* June 2017 - March 2018: Full Stack Software Engineering Intern
-  * <a href="lendstreet.com">Lend Street Financial</a>
-
-* July 2016 - January 2018: Research Assistant 
-  * <a href="ssrc.ucsc.edu">Storage Systems Research Center</a>  
+* <a href="ssrc.ucsc.edu">Storage Systems Research Center</a>
+  * July 2016 - January 2018: Research Assistant 
+    
   
 <!-- Skills
 ======
