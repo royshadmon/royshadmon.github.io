@@ -11,32 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of California, Santa Cruz, 2017
+* M.S. in Computer Science, University of California, Santa Cruz, 2018
+* Ph.D in Computer Science & Engnineering, University of California, Santa Cruz, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* December 2019 - Present: Security Engineer
+* September 2019 - December 2019: Security Analyst
+* June 2019 - August 2019: Security Analyst Intern
+  * <a href="looker.com">Looker Data Sciences</a>  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2018 - June 2019: Graduate Teaching Assistant 
+  * University of California, Santa Cruz - Jack Baskin School of Engineering 
+
+* June 2018 - September 2018: Software Engineering Intern 
+  * <a href="juniper.net">Juniper Networks</a>
+
+* June 2017 - March 2018: Full Stack Software Engineering Intern
+  * <a href="lendstreet.com">Lend Street Financial</a>
+
+* July 2016 - January 2018: Research Assistant 
+  * <a href="ssrc.ucsc.edu">Storage Systems Research Center</a>  
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,8 +59,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
