@@ -9,7 +9,7 @@ location: "Santa Cruz, California"
 ---
 
 Mentored 11 projects featuring ~50 students with SCRUM and TDD techniuques. 
-https://courses.soe.ucsc.edu/courses/cse115a
+<a href="https://courses.soe.ucsc.edu/courses/cse115a">Course Link</a>
 
 (course renamed from CMPS 115)
 
