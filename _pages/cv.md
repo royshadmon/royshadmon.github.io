@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of California, Santa Cruz, 2017
-* M.S. in Computer Science, University of California, Santa Cruz, 2018
 * Ph.D in Computer Science & Engnineering, University of California, Santa Cruz, 2023 (expected)
+* M.S. in Computer Science, University of California, Santa Cruz, 2018
+* B.S. in Computer Science, University of California, Santa Cruz, 2017
 
 Work experience
 ======
