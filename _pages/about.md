@@ -12,6 +12,17 @@ redirect_from:
 
 I am a PhD student at UC Santa Cruz doing research under [Owen Arden](https://users.soe.ucsc.edu/~owen/). My research aims to connect principles and techniques from computer security, distributed systems, consensus protocols, and blockchain to develop and design systems that enforce data privacy and provide mechanisms to verify the integrity of data. Specifically, I'm interested in designing mechanisms that verify the integrity of data-driven computations in an adversarial controlled decentralized network. 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156003710-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-156003710-1');
+</script>
+
+
 <!-- Fun Facts
 ======
 In my free time, I like to spend time with my family and friends. I enjoy atMy newest hobby is playing golf. -->
