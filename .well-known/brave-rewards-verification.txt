@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: royshadmon.github.io
+Token: 92cabd429cf9bf5aba60a69516be0805b979d811defb471fb2600a6ef0cb04ef
