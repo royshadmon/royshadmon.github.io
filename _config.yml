@@ -116,13 +116,14 @@ author:
   # youtube          :
   # wikipedia        :
 
+#so brave rewards will work
+include: [".well-known"]
 
 # Reading Files
 include:
   - .htaccess
   - _pages
   - files
-  - .well-known
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
