@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-No publications, yet, but I'm working hard on a few! 
-
-<!-- {% if author.googlescholar %}
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -15,4 +13,4 @@ No publications, yet, but I'm working hard on a few!
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
