@@ -1,7 +1,7 @@
 ---
 title: "Vote Them Out: Detecting and Eliminating Byzantine Peers"
 collection: publications
-permalink: /publication/2019/11/20/Vote-them-out-1
+permalink: /publication/2019-11-20-Vote-them-out-number-1
 excerpt: 'This paper presents the Protocol for Ejecting All Corrupted Hosts (Peach, a mechanism for detecting and ejecting faulty nodes in Byzantine fault tolerant (BFT) protocols.'
 date: 2019-11-20
 venue: "SoCC '19 Proceedings of the ACM Symposium on Cloud Computing"
@@ -11,4 +11,3 @@ paperurl: 'https://dl.acm.org/doi/abs/10.1145/3357223.3365442?casa_token=qvZswr6
 This paper presents the Protocol for Ejecting All Corrupted Hosts (Peach, a mechanism for detecting and ejecting faulty nodes in Byzantine fault tolerant (BFT) protocols.
 
 [Download paper here](https://dl.acm.org/doi/pdf/10.1145/3357223.3365442?download=true)
-
