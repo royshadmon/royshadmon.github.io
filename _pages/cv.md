@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* <a href="https://www.adeccousa.com/">Adecco, onsite with <a href="https://careers.google.com/jobs/">Google</a></a>
+* <a href="https://www.adeccousa.com/">Adecco</a>, onsite with <a href="https://careers.google.com/jobs/">Google</a>
   * March 2020 - Present: Security Engineer
 * <a href="https://www.looker.com">Looker Data Sciences</a> <a href="https://techcrunch.com/2020/02/13/google-closes-2-6b-looker-acquisition/">(acquired by Google)</a>
   * December 2019 - Present: Security Engineer
