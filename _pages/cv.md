@@ -36,15 +36,18 @@ Work experience
 * <a href="https://www.ssrc.ucsc.edu">Storage Systems Research Center</a>
   * July 2016 - January 2018: Research Assistant 
     
-  
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+Certifications
+======  
+* Sumo Logic Certification - Security Analytics
+  * Credential ID f5ee-2f80-0580-b292
+
+* Sumo Logic Certification - Search Mastery
+  * Credential ID 1826-dc6c7a2c-639b
+
+* Sumo Logic Certification - Fundamentals
+  * Credential ID 88d4-5259-b076-f371
+
+
 
 <!-- Publications
 ======
