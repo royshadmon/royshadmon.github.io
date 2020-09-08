@@ -17,8 +17,10 @@ Education
 
 Work experience
 ======
+* <a href="https://www.salesforce.com/">Salesforce</a>
+  * June 2020 - September 2020: Software Engineering Intern
 * <a href="https://www.adeccousa.com/">Adecco</a>, onsite with <a href="https://careers.google.com/jobs/">Google</a>
-  * April 2020 - Present: Security Engineer
+  * April 2020 - June 2020: Security Engineer
 * <a href="https://www.looker.com">Looker Data Sciences</a> <a href="https://techcrunch.com/2020/02/13/google-closes-2-6b-looker-acquisition/">(acquired by Google)</a>
   * December 2019 - Present: Security Engineer
   * September 2019 - December 2019: Security Analyst
